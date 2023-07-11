@@ -8,3 +8,5 @@ while (count > 0)
     Console.WriteLine("Exiting in " + count);
     count--;
 }
+
+Console.WriteLine("Thank you for testing my Project. Bye!");
