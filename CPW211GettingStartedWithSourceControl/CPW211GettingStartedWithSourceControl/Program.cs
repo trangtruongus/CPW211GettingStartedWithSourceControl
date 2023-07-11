@@ -9,4 +9,4 @@ while (count > 0)
     count--;
 }
 
-Console.WriteLine("Thank you for testing my Project. Bye!");
+Console.WriteLine("Thank you for testing my project. Bye!");
